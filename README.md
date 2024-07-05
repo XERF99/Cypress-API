@@ -38,4 +38,10 @@ de reportes.
         npm run html-report
 
     6.3. Para observar el reporte generado se debe ir a la carpeta reports -> index.html -> clic derecho dentro del archivo
-        y seleccionar la opción de abrir con el navegador para que el reporte html se abra en el navegador que seleccione 
+        y seleccionar la opción de abrir con el navegador para que el reporte html se abra en el navegador que seleccione
+
+   Clona el repositorio
+
+```sh
+git https://github.com/XERF99/Cypress-API.git
+cd Cypress-API
