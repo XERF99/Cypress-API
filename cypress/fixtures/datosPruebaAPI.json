@@ -1,0 +1,4 @@
+{
+  "signupUrl" : "https://api.demoblaze.com/signup",
+  "loginUrl" : "https://api.demoblaze.com/login"
+}

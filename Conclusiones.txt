@@ -1,0 +1,20 @@
+Conclusiones prueba API.
+
+1. Se completó lo solicitado en el ejercicio utilizando Cypress y archivos json.
+
+2. Fue un desafió, debido a que casi no he realizado pruebas de API, pero logre solventar
+este inconveniente revisando la documentación, mediante foros de programación y videos.
+
+3. Al momento de ejecutar la prueba de crear un nuevo usuario en signup se detecto que no existe
+body con el cuerpo de la respuesta.
+
+4. Se utilizaron métodos POST para crear un usuario, crear un usuario ya existente, que el usuario
+y password sean correctos y en el caso contrario con el login.
+
+5. Al no haber utilizado cucumber en este ejercicio fue necesario implementar un nuevo tipo de reporte
+este reporte se llama cypress-mochawesome-reporter y presenta la información desplegada de manera amigable 
+para el usuario.
+
+6. Con este ejercicio entendí como funcionan los endpoints y como es el estado de respuesta de los mismos, 
+también, profundicé mis conocimientos de Cypress y javascript en la manipulación de variables. Además, 
+descubrí como funcionan las APIs y la importancia de realizar una prueba individual para cada evento. 

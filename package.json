@@ -1,0 +1,17 @@
+{
+  "name": "cypress-api-tata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "html-report": "cypress run --spec cypress/e2e/API.cy.js --browser chrome --headed"
+  },
+  "keywords": [],
+  "author": "Francisco Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.11.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
