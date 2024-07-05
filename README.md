@@ -1,17 +1,17 @@
-Cypress API Readme
+## Cypress API Readme
 
-Pre-requesitos
+## Pre-requesitos
 
 Tener instalado VSCODE como editor de código
 
-Instalación de dependicias
+## Instalación de dependencias
 
 1. Descomprimir el archivo .zip enviado
 2. Abrir la carpeta que se generó como resultado de descomprimir el archivo en VSCODE
 3. Abrir la terminal de VSCODE y ejecutar el siguiente comando:
     3.1. "npm install" --> este comando instalará todas las dependicias de node necesarias
 
-Ejcecución del Proyecto
+## Ejecución del Proyecto
 
 4. Como el proyecto está enviado en un archivo .zip no es necesario instalar Cypress o el generador 
 de reportes.
@@ -26,7 +26,7 @@ de reportes.
     5.2. Ejecución de Cypress en el terminal de VSCODE
         5.2.1. "npx cypress run"
 
-Generación de reportes
+## Generación de reportes
 
 6. Para ejecutar el reporte generado con cypress-mochawesome-reporter se debe ejecutar el siguiente comando
     6.1. Abrir una nueva terminal
